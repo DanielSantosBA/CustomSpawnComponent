@@ -6,7 +6,7 @@ from collections import OrderedDict
 from random import randint
 
 
-# SCENE
+#SCENE
 if not hasattr(bge, "__component__"):
     global objI
     global objA
